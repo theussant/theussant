@@ -1,7 +1,7 @@
 ### Hi Hi 👋
 
 - 🔭 Não trabalho ainda, apenas estudo.
-- 🌱 Estou estudando recentemente Java, Html/CSS/JavaScript.
+- 🌱 Estou estudando Java, Html/CSS/JavaScript.
 
 <div align="center">
   <a href="https://github.com/Theuz6">
