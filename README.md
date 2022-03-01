@@ -15,6 +15,8 @@
   <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Math-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Math-VSC"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+     <img align="right" alt="Gif-pic" height="150" style="border-radius:50px;" src="https://wiki.supercombo.gg/images/1/18/Joe98_stance.gif">
+     <img align="right" alt="Gif2-pic" height="150" style="border-radius:50px;" src="https://art.ngfiles.com/images/2010000/2010873_zorropa_black-mage-supreme-victory.gif?f1628732790">
     </div>
   
   
@@ -22,7 +24,6 @@
   
   <div>
    
-  <a href="https://instagram.com/theuz_lz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/theuz_lz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   </div>
  
