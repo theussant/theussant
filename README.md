@@ -1,7 +1,7 @@
-### Hi Hi 👋
+### Oi :robot:	
 
-- 🌱 Estudos atuais:Java, Html, CSS, JavaScript.
-- :mountain:	Linguagem C nível intermediário.
+- :mage_man:	 Estudos atuais:Java, Html, CSS, JavaScript.
+- :panda_face:		Linguagem C nível intermediário.
 
 <div align="center">
   <a href="https://github.com/Theuz6">
