@@ -1,7 +1,7 @@
 ### Hi Hi 👋
 
 - 🌱 Estudos atuais:Java, Html, CSS, JavaScript.
-- :mountain:	Linguagem C nivel intermediário.
+- :mountain:	Linguagem C nível intermediário.
 
 <div align="center">
   <a href="https://github.com/Theuz6">
