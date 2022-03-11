@@ -1,7 +1,7 @@
 ### Hi Hi 👋
 
-- 🔭 Não trabalho ainda, apenas estudo.
-- 🌱 Estou estudando Java, Html/CSS/JavaScript.
+- 🌱 Estudos atuais:Java, Html, CSS, JavaScript.
+- Linguagem C nivel intermediário.
 
 <div align="center">
   <a href="https://github.com/Theuz6">
