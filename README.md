@@ -1,6 +1,6 @@
 ### Oi :robot:	
 
-- :mage_man:	 Estudos atuais:Java, Html, CSS, JavaScript.
+- :mage_man:	 Estudos atuais: Java, Html, CSS, JavaScript.
 - :panda_face:		Linguagem C nível intermediário.
 
 <div align="center">
