@@ -16,8 +16,7 @@
   <img align="center" alt="Math-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Math-VSC"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
      <img align="right" alt="Gif-pic" height="150" style="border-radius:50px;" src="https://art.ngfiles.com/images/2010000/2010873_zorropa_black-mage-supreme-victory.gif?f1628732790">
-     <img align="right" alt="Gif2-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/mugen/images/7/77/GudineBMS7_6.gif/revision/latest/scale-to-width-down/212?cb=20160528223456">
-    </div>
+    
   
 
   
