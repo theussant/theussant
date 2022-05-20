@@ -1,7 +1,7 @@
 ### Olá :robot:	
 
-- :mage_man:	 Estudos atuais: HTML, CSS, JavaScript e Java.
-- :panda_face: Conhecimento em linguagem C.
+- :panda_face:  Estudos atuais: 
+- JavaScript e Java.
 
 <div align="center">
   <a href="https://github.com/Theuz6">
