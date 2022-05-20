@@ -1,6 +1,6 @@
 ### Olá :robot:	
 
-- :panda_face:  Estudos atuais: 
+ :panda_face:  Estudos atuais: 
 - JavaScript e Java.
 
 <div align="center">
