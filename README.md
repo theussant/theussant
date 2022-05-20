@@ -1,7 +1,7 @@
-### Oi :robot:	
+### Olá :robot:	
 
 - :mage_man:	 Estudos atuais: HTML, CSS, JavaScript e Java.
-- :panda_face: Linguagem C nível intermediário.
+- :panda_face: Conhecimento em linguagem C.
 
 <div align="center">
   <a href="https://github.com/Theuz6">
