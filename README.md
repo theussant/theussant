@@ -1,7 +1,7 @@
 ### Olá :robot:	
 
  :panda_face:  Estudos atuais: 
- - JavaScript e Java.
+ - Python e C++.
 
 <div align="center">
   <a href="https://github.com/Theuz6">
