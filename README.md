@@ -27,6 +27,8 @@
   <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="right" alt="Gif-pic" height="150" style="border-radius:50px;" src="https://art.ngfiles.com/images/2010000/2010873_zorropa_black-mage-supreme-victory.gif?f1628732790">
   <img align="center" alt="Math-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Math-LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+          
   
 
   
