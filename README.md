@@ -1,7 +1,7 @@
 ### Olá :robot:	
 
- :panda_face:  Estudos atuais: 
- - Python e C++.
+ :panda_face:  Atualmente utilizando: 
+ - ROS2 (C++, Python).
 
 <div align="center">
   <a href="https://github.com/Theuz6">
