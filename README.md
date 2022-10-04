@@ -25,7 +25,7 @@
   <img align="center" alt="Math-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" alt="Math-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Gif-pic" height="150" style="border-radius:50px;" src="https://art.ngfiles.com/images/2010000/2010873_zorropa_black-mage-supreme-victory.gif?f1628732790">
+  <img align="right" alt="Gif-pic" height="100" style="border-radius:40px;" src="https://art.ngfiles.com/images/2010000/2010873_zorropa_black-mage-supreme-victory.gif?f1628732790">
   <img align="center" alt="Math-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Math-LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
           
