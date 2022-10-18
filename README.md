@@ -14,8 +14,8 @@
   <img height="275px" width="440px" length="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theus6&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div align="center">
-<h1>Tecnologias que uso:<h1>
+<div align="absolute">
+<h1>Tecnologias:<h1>
 </div>
 
 
@@ -39,7 +39,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
   
   ##
   
-  <div>
+  <div align="center">
    
   <a href="https://instagram.com/theuz_lz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-dos-santos-silva6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
