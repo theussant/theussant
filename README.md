@@ -14,15 +14,15 @@
   <img height="275px" width="440px" length="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theus6&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<h1>Tecnologias:<h1>
+
 
   <div align="center" style="display: inline_block"><br>
+  <h1>Tecnologias:<h1>
    <img align="center" alt="Math-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" alt="Math-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Math-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" alt="Math-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Gif-pic" height="100" style="border-radius:40px;" src="https://art.ngfiles.com/images/2010000/2010873_zorropa_black-mage-supreme-victory.gif?f1628732790">
   <img align="center" alt="Math-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Math-Linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
   <img align="center" alt="Math-Ubuntu" height="30" width="40" 
