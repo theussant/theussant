@@ -27,9 +27,7 @@
   <img align="center" alt="Math-Linux" height="30" width="40"  src="https://www.freepnglogos.com/uploads/linux-png/linux-file-tux-enhanced-svg-wikimedia-commons-9.png">
   <img align="center" alt="Math-Ubuntu" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-          
-          
-  
+  </div>
   
   <div align="center">
    
