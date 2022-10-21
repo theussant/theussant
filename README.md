@@ -1,10 +1,10 @@
 <div align="center">
-<strong> :robot: Olá :robot:	</strong>
+<strong>Olá</strong>
 </div>
 
 <div align="center">
  :panda_face:  Atualmente utilizando:
- - ROS2 (C++, Python). :panda_face:
+ - ROS2 (C++, Python). :robot:
 </div>
 <br>
 
@@ -30,11 +30,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
           
           
   
-
-  
-
-  
-  ##
   
   <div align="center">
    
