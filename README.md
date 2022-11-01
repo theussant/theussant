@@ -4,7 +4,8 @@
 
 <div align="center">
  :panda_face:  Atualmente utilizando:
- - ROS2 (C++, Python). :robot:
+ - Flutter
+ - ShellScript. :robot:
 </div>
 <br>
 
