@@ -1,12 +1,7 @@
-<div align="center">
-<strong>Olá</strong>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ea7d00&height=120&section=header"/>
 
-<div align="center">
- :panda_face:  Atualmente utilizando:
- - Flutter
- - ShellScript. :robot:
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea7d00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus+Silva;Tenho+19+anos;Sou+técnico+em+desenvolvimento+de+sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
 <br>
 
 <div align="center">
@@ -18,7 +13,9 @@
 
 
   <div align="center" style="display: inline_block"><br>
-  <h1>Tecnologias:<h1>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea7d00&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias:)](https://git.io/typing-svg)
+  
    <img align="center" alt="Math-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" alt="Math-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Math-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -29,6 +26,8 @@
   <img align="center" alt="Math-Ubuntu" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   </div>
+  
+  <br>
   
   <div align="center">
    
