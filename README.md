@@ -29,6 +29,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
   
   <br>
   
+   <div align="center" style="display: inline_block"><br>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea7d00&size=35&center=true&vCenter=true&width=1000&lines=Aprendendo:)](https://git.io/typing-svg)
+  
+   <img align="center" alt="Math-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+   <img align="center" alt="Math-AG" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  </div>
+  
+  <br>
+  
   <div align="center">
    
   <a href="https://instagram.com/ttheus.sh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
