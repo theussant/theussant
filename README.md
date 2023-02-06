@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ea7d00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea7d00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus+Silva;Tenho+19+anos;Sou+técnico+em+desenvolvimento+de+sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea7d00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus+Silva;Sou+técnico+em+desenvolvimento+de+sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
 
@@ -23,6 +23,7 @@
    <img align="center" alt="Math-Python" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+   <img align="center" alt="Math-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Math-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Math-Linux" height="30" width="40"  src="https://www.freepnglogos.com/uploads/linux-png/linux-file-tux-enhanced-svg-wikimedia-commons-9.png">
   </div>
