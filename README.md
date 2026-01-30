@@ -14,28 +14,29 @@
 
   <div align="center" style="display: inline_block"><br>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea7d00&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias:)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea7d00&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias_Principais:)](https://git.io/typing-svg)
   
    <img align="center" alt="Math-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" alt="Math-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Math-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Math-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-   <img align="center" alt="Math-Python" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+   <img align="center" alt="Math-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Math-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
    <img align="center" alt="Math-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Math-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Math-Linux" height="30" width="40"  src="https://www.freepnglogos.com/uploads/linux-png/linux-file-tux-enhanced-svg-wikimedia-commons-9.png">
+   <img align="center" alt="Math-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+   <img align="center" alt="Math-Linux" height="30" width="40"  src="https://www.freepnglogos.com/uploads/linux-png/linux-file-tux-enhanced-svg-wikimedia-commons-9.png">
+  
   </div>
   
   <br>
   
    <div align="center" style="display: inline_block"><br>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea7d00&size=35&center=true&vCenter=true&width=1000&lines=Aprendendo:)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ea7d00&size=35&center=true&vCenter=true&width=1000&lines=Aprendizado:)](https://git.io/typing-svg)
   
    <img align="center" alt="Math-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-   <img align="center" alt="Math-AG" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
+   <img align="center" alt="Math-AG" height="30" width="40" src="https://www.datocms-assets.com/98835/1684410508-image-7.png">
+   <img align="center" alt="Math-Node" height="30" width="40"  src="https://www.svgrepo.com/show/354119/nodejs-icon.svg">
+   <img align="center" alt="Math-Node" height="30" width="40"  src="https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000">
+   <img align="center" alt="Math-C" height="30" width="40" src="https://www.svgrepo.com/show/353657/django-icon.svg">
   </div>
   
   <br>
